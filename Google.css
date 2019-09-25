@@ -1,0 +1,117 @@
+
+.main-content {
+ text-align: center;
+ margin-top: 100px;
+}
+img {
+    width: 400px;
+   
+}
+
+input{
+height: 40px;
+width: 40%;
+border-radius: 20px;
+margin-top: 50px;
+margin-left: -30px;
+padding-left: 50px;
+border: 1px solid lightgray;
+}
+
+
+.buttons {
+
+width:100px;
+}
+
+.buttons {
+
+width: 100%;
+margin-left: 450px;
+margin-top: 30px;
+display: flex;
+align-items: center;
+}
+.Google-Search {
+width: 150px;
+height: 35px;
+border-radius: 5px;
+background-color: #F7F7F7;
+border: none;
+margin: 5px;
+
+}
+.Im-lucky {
+width: 200px;
+height: 35px;
+border-radius: 5px;
+background-color: #F7F7F7;
+border: none;
+margin: 5px;
+}
+h1{
+font-size: small;
+text-align: center;
+margin-top: 30px;
+
+}
+
+a {
+    text-decoration : none; color: black;
+}
+
+a:hover {
+    color:purple;
+}
+
+.menu-bar{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    justify-content: space-between;
+    width: 200px;
+    margin-left: 1040px;
+    margin-top: 30px;
+    font-family: roboto;
+    font-size: 13px;
+}
+.menu{
+    width: 30px;
+}
+
+.user {
+    width: 30px;
+}
+.google-mic {
+    width: 15px;
+    position: relative;
+    top: 8px;
+    margin-left: -40px;
+}
+.search {
+    width: 25px;
+    position: relative;
+    top: 10px;
+    left: -524px;
+}  
+
+h1 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+a.Vietnamese {
+    color: blue;
+}
+a.French {
+    color: blue;
+}
+a.Chinese {
+   color: blue;
+}
+
